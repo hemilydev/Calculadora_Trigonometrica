@@ -1,4 +1,4 @@
-# PBL 05 - Calculadora/Conversora Trigonométrica  
+# Calculadora/Conversora Trigonométrica  
 Este projeto contém um código em Java para realizar cálculos trigonométricos básicos:  
 - Seno  
 - Cosseno  
